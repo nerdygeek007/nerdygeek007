@@ -1,0 +1,62 @@
+# Maharshi M. Trivedi
+
+**Location:** Anand, Gujarat  
+**Email:** trivedimaharshim@gmail.com  
+**LinkedIn:** linkedin.com/in/maharshi-trivedi-3b7023293  
+**GitHub:** github.com/nerdygeek007
+
+---
+
+## PROFILE
+
+A dedicated Computer Engineering student passionate about cybersecurity and systems programming. Focused on understanding how systems operate at a foundational level to build secure, efficient software. Seeking a cybersecurity internship to apply hands-on experience with Go, C, and secure architecture principles while actively learning from industry professionals.
+
+---
+
+## TECHNICAL SKILLS
+
+- **Languages & Environments:** C, Go, Linux (CLI), Bash Scripting
+- **Security & Networking:** Secure Coding Practices, Applied Cryptography Basics, Data Immutability (IPFS), Network Analysis
+- **Databases & Tools:** SQLite, Raw SQL, Git, Terminal-native workflows
+
+---
+
+## EXPERIENCE & ENGAGEMENT
+
+### Technical Intern | Edunet Foundation
+
+- Assisted in developing foundational models processing localized datasets, focusing on accurate data handling and pipeline reliability for sustainability metrics.
+
+### Hackathon Participant | GDG Tech Sprint & OceanLab X CHARUSAT Hacks
+*Mar-Apr 2026*
+
+- Built AI-integrated SaaS prototypes, prioritizing secure API interactions and reliable application state management.
+- Recognized for collaborative contributions to open-source systems during the GDG Tech Sprint.
+
+---
+
+## SYSTEMS & SECURITY PROJECTS
+
+### Decentralized Document Verification
+**Technologies:** IPFS, Pinata SDK, Cryptography
+
+- Developed a document verification system utilizing IPFS to ensure data immutability and integrity across the network.
+- Implemented cryptographic hashing (CID) to reliably verify document states without relying on a centralized database structure.
+
+### Project Oracle & Club Management System
+**Technologies:** Go, SQLite
+
+- Built high-performance project and club tracking backends in Go, utilizing raw SQL to maintain performance and clear execution logic.
+- Focused on secure database interactions by implementing strict parameter binding to prevent common vulnerabilities, such as SQL injection.
+
+---
+
+## EDUCATION
+
+**B.Tech, Computer Engineering** | CHARUSAT (DEPSTAR)  
+*Expected CGPA: 9.0+*
+
+**Diploma in Engineering** | B.B.I.T.  
+*CGPA: 8.67*
+
+---
